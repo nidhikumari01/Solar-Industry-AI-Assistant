@@ -10,6 +10,7 @@ A Streamlit app that uses OpenRouter's Vision LLMs to analyze satellite images a
 3. Run the app: streamlit run app.py
 
 4. Upload a rooftop image (some satellite images attached) and enter your OpenRouter API key.
+
    api_key = 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
 
 ## Tools
